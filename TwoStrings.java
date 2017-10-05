@@ -18,8 +18,6 @@ public class TwoStrings {
 	
     public static void main(String args[])
     {
-    	//MyInput inp = new MyInput();
-    	//MyOutput out = new MyOutput();
     	int T = getInt();
     	for (int i = 0; i<T; i++)
     	{
